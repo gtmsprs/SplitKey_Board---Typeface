@@ -28,6 +28,8 @@ Day 3 - April 18th, 2026
 Cleaning up my Split Keyboard on PCB Editor (KiCAD)
 4.25h logged
 
+<img width="1631" height="760" alt="image" src="https://github.com/user-attachments/assets/41f63916-09a7-419b-bf07-23eb7d7909b9" />
+
 So I ran into a bit of a problem again, and it's related to my original schematics. After wanting to update it again, I wanted to add a few additional buttons to the keyboard since I had more keys to spare, but now the schematics aren't getting annotated correctly. I will look at some tutorials on KiCAD to find the root of this problem.
 
 After some troubleshooting, however, I was able to figure out the root of the problem, which was that labeling the switches and diodes ended up confusing the program and altogether making a whole bunch of errors as a result. Once I correctly labeled all of the switches and diodes correctly, it was way easier from there, allowing me to finally load the PCB back into the PCB editor.
