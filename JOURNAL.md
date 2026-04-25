@@ -1,7 +1,7 @@
-Day 1 - April 16th, 2026 
-2.1h logged
+# Day 1 - April 16th, 2026 
 Learned how to create a Proper PCB (Schematic)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 2.1h logged
 <img width="1137" height="796" alt="image" src="https://github.com/user-attachments/assets/e538af62-700e-4452-996f-738c58ad95a3" />
 
 It took me a while to figure out how to import the right footprints and symbols, as I had been struggling to do so. But once I had it imported, I followed the instructions provided by @koeg, and kudos to her, as she made it really easy for me to follow. in the span of 2 hours, I managed to create a split key matrix and connect it to my Xiao microcontroller via the labels, and finally create a test point and battery sense. However, the footprints and symbols that I had previously imported came back to bite me in the back, as I could not properly import this into my pcb editor, so I will need to troubleshoot it sometime soon.
@@ -11,9 +11,10 @@ and if this does not count towards creating a PCB, I will cry :(
 
 I can also send a full video format just in case as I have also saved the stream onto my computer. My Slack ID is U08002N0XQE, so please feel free to contact me if further proof is needed. Thanks!
 
-Day 2 - April 17th, 2026
-2.2h logged
+# Day 2 - April 17th, 2026
 PCB Editing/troubleshooting XIAO footprints and symbols
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 2.2h logged
 
 <img width="1323" height="766" alt="image" src="https://github.com/user-attachments/assets/a2ffdf7e-095b-41c7-b66e-350f3addbf0e" />
 
@@ -24,9 +25,10 @@ What I want to add to this build is the most cheapest, but best costing material
 I'm finished with the whole troubleshooting, but it took a long time to figure out, which is why I'll now proceed to work on this the next day.
 https://lapse.hackclub.com/timelapse/J9anPOfhamre
 
-Day 3 - April 18th, 2026 
+# Day 3 - April 18th, 2026
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cleaning up my Split Keyboard on PCB Editor (KiCAD)
-4.25h logged
+## 4.25h logged
 
 <img width="1631" height="760" alt="image" src="https://github.com/user-attachments/assets/41f63916-09a7-419b-bf07-23eb7d7909b9" />
 
