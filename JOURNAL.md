@@ -1,5 +1,5 @@
 # Day 1 - April 16th, 2026 
-Learned how to create a Proper PCB (Schematic)
+### Learned how to create a Proper PCB (Schematic)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2.1h logged
 <img width="1137" height="796" alt="image" src="https://github.com/user-attachments/assets/e538af62-700e-4452-996f-738c58ad95a3" />
@@ -12,7 +12,7 @@ and if this does not count towards creating a PCB, I will cry :(
 I can also send a full video format just in case as I have also saved the stream onto my computer. My Slack ID is U08002N0XQE, so please feel free to contact me if further proof is needed. Thanks!
 
 # Day 2 - April 17th, 2026
-PCB Editing/troubleshooting XIAO footprints and symbols
+### PCB Editing/troubleshooting XIAO footprints and symbols
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2.2h logged
 
@@ -26,7 +26,7 @@ I'm finished with the whole troubleshooting, but it took a long time to figure o
 https://lapse.hackclub.com/timelapse/J9anPOfhamre
 
 # Day 3 - April 18th, 2026
-Cleaning up my Split Keyboard on PCB Editor (KiCAD)
+### Cleaning up my Split Keyboard on PCB Editor (KiCAD)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 4.25h logged
 
